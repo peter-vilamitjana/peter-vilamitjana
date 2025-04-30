@@ -19,5 +19,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=peter-vilamitjana&show_icons=true&locale=en" alt="peter-vilamitjana" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=peter-vilamitjana&" alt="peter-vilamitjana" /></p>
-
